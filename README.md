@@ -15,8 +15,24 @@ A simple To-Do application built with Django to help you manage your tasks effec
 - HTML/CSS
 - JavaScript (optional for future enhancements)
 
+## Requirements
+ - Django
+ - django-crispy-forms
 
-### Clone the Repository
+## Steps to run :-
+
+- Clone the Repository
 
 ```bash
 git clone https://github.com/navkaransinghhunjan/django_to-do.git
+```
+- Go to django_to-do folder
+```bash
+cd django_to-do
+```
+- Run django server
+```bash
+python3 manage.py runserver
+```
+
+Enjoy!!!
